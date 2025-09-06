@@ -498,6 +498,10 @@ footer {
     padding-bottom: 30px;
 }
 
+.copyright h4 {
+    margin-bottom: 30px;
+}    
+
 /* Mobile Design */
 @media (max-width: 100vh) {
     html, body {
@@ -590,3 +594,4 @@ footer {
         padding-bottom: 30px;
     }
 }
+
