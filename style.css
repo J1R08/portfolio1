@@ -520,6 +520,10 @@ footer {
         font-size: 16px;
     }
 
+    .navdiv .logo {
+        padding-right: 50px;
+    }
+
     .navdiv ul {
         flex-direction: column;
         gap: 10px;
@@ -594,4 +598,5 @@ footer {
         padding-bottom: 30px;
     }
 }
+
 
